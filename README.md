@@ -65,37 +65,7 @@ Explore relationships between movie-related variables and examine additional per
 
 ---
 
----
 
-## 📸 Dashboard Preview
-
-### 1. Movie Overview & Time Trends
-![Movie Overview Dashboard](images/movie-overview.png)
-
-### 2. Genre & Rating Analysis
-![Genre and Rating Dashboard](images/genre-rating-analysis.png)
-
-### 3. Top Performers & Box Office Insights
-![Top Performers Dashboard](images/top-performers.png)
-
-### 4. Correlation & Advanced Metrics
-![Correlation Analysis Dashboard](images/correlation-analysis.png)
-
-## 🔍 Key Analysis Questions
-
-This project explores questions such as:
-
-* How does movie performance change over time?
-* Which genres have the highest recorded performance?
-* Which movies are the top performers?
-* How are movie ratings distributed?
-* Is there an observable relationship between ratings and revenue?
-* What patterns can be identified in movie performance?
-* Which areas may deserve further investigation?
-
-The answers should be interpreted using the actual dataset and the results displayed in the dashboard.
-
----
 
 ## 📈 Key Insights
 
