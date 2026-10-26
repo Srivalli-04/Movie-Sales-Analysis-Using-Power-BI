@@ -65,10 +65,12 @@ Explore relationships between movie-related variables and examine additional per
 
 ---
 
+---
+
 ## 📸 Dashboard Preview
 
 ### 1. Movie Overview & Time Trends
-![Movie Overview Dashboard]("C:\Users\janan\OneDrive\Pictures\Screenshots\Screenshot 2026-10-26 204421.png")
+![Movie Overview Dashboard](images/movie-overview.png)
 
 ### 2. Genre & Rating Analysis
 ![Genre and Rating Dashboard](images/genre-rating-analysis.png)
